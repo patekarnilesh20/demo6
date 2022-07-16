@@ -3,6 +3,7 @@ public class Student{
 
 		System.out.println("Hello world ");
 		System.out.println("hello new");
+		System.out.println("hhh new");
 	
 	}
 
